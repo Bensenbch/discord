@@ -1,3 +1,1 @@
-# discord
-webhooks discord
-Hola og velkommen
+Hej og velkommen til noget Hygge
